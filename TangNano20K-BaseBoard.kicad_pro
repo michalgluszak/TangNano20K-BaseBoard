@@ -648,7 +648,7 @@
         "uuid": "e5795ef0-ab01-48e5-8400-b77abdd11902"
       }
     ],
-    "used_designators": "Slide_Switch_OLED1",
+    "used_designators": "S1-4,#PWR21-26,R24-26",
     "variants": []
   },
   "sheets": [
