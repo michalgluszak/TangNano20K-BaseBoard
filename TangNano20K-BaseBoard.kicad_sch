@@ -3824,6 +3824,12 @@
 		(uuid "10364216-dfb9-4e22-82d6-989f95a4b93c")
 	)
 	(junction
+		(at 218.44 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1230d51d-f307-48ef-83e9-806363298746")
+	)
+	(junction
 		(at 82.55 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3854,12 +3860,6 @@
 		(uuid "6489f020-22bf-43d4-be77-1e63d44e8c31")
 	)
 	(junction
-		(at 227.33 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "67faaf72-960f-4edc-909f-8e8f7f09bb07")
-	)
-	(junction
 		(at 307.34 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3872,7 +3872,13 @@
 		(uuid "6f1245a6-c634-4e0a-be92-dbfb84ab76fa")
 	)
 	(junction
-		(at 166.37 45.72)
+		(at 218.44 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "76c1da16-ab22-41ec-9d28-204f7ea5c286")
+	)
+	(junction
+		(at 165.1 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9b8c8c8d-ef6e-4194-96a8-42c697bd5f3a")
@@ -3884,16 +3890,10 @@
 		(uuid "bcc33262-376f-4820-ba7e-90804ab3f8be")
 	)
 	(junction
-		(at 166.37 80.01)
+		(at 165.1 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c4399d06-71e6-4459-8a63-d7b76687ccee")
-	)
-	(junction
-		(at 227.33 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e189bd3a-b8be-4b52-af44-c36521437c33")
+		(uuid "dac7ae14-0a1d-4ba6-a205-57037070ebf0")
 	)
 	(junction
 		(at 307.34 52.07)
@@ -3902,16 +3902,16 @@
 		(uuid "ffb0b393-62cc-4b54-81cf-df9b3d1c779f")
 	)
 	(no_connect
-		(at 191.77 76.2)
-		(uuid "0da1fc4a-6e26-43ac-8f0a-ba9516f6d851")
-	)
-	(no_connect
 		(at 64.77 236.22)
 		(uuid "1640edb1-60e5-410d-85ea-e1d89f7a3dc7")
 	)
 	(no_connect
-		(at 222.25 73.66)
-		(uuid "17f5141f-f812-4382-9b56-7ed4bf813f87")
+		(at 130.81 76.2)
+		(uuid "47b841c4-10f4-4624-b5ca-57cf9a7a3357")
+	)
+	(no_connect
+		(at 184.15 41.91)
+		(uuid "725d7418-64e1-4f66-a4cd-424252aba03a")
 	)
 	(no_connect
 		(at 260.35 133.35)
@@ -3922,46 +3922,36 @@
 		(uuid "7f1cd290-a81c-42a8-aa39-e1db7c286154")
 	)
 	(no_connect
-		(at 130.81 76.2)
-		(uuid "7fe8f571-4d8e-495f-9b2a-ee56f5d80782")
-	)
-	(no_connect
-		(at 222.25 39.37)
-		(uuid "82084125-bbbb-468f-b785-440300e6efba")
+		(at 214.63 73.66)
+		(uuid "845d1ade-6046-488d-b951-88c65df688f0")
 	)
 	(no_connect
 		(at 130.81 41.91)
 		(uuid "9d4b7156-b71e-4f92-91eb-c1f7beb8f445")
 	)
 	(no_connect
-		(at 191.77 41.91)
-		(uuid "9dd36fac-0fdf-4a29-8006-31fc3bc85b4a")
-	)
-	(no_connect
-		(at 161.29 39.37)
-		(uuid "cad6f232-3b89-4dee-bec0-24b056268d4b")
+		(at 184.15 76.2)
+		(uuid "cb32f1c8-3542-4829-a56a-60e6e43d9308")
 	)
 	(no_connect
 		(at 161.29 73.66)
-		(uuid "e6017f0b-3bb8-42b9-80dc-f66492fddb45")
+		(uuid "d61ab0f2-a589-4cce-bbc6-b170e5dd3a75")
 	)
 	(no_connect
 		(at 260.35 173.99)
 		(uuid "ecd6acf8-b2c4-44fb-a576-a8f1edc3eb7a")
 	)
 	(no_connect
+		(at 214.63 39.37)
+		(uuid "f1a79de2-4462-44d7-b2d0-042cd7e6974e")
+	)
+	(no_connect
+		(at 161.29 39.37)
+		(uuid "f63c8784-d33d-4f54-b433-d4f3a5064a0e")
+	)
+	(no_connect
 		(at 222.25 133.35)
 		(uuid "fcaff394-e78c-4dd2-b9d5-824762933480")
-	)
-	(wire
-		(pts
-			(xy 227.33 76.2) (xy 227.33 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00716f9e-2d60-43c2-bf5f-b1adf8cce475")
 	)
 	(wire
 		(pts
@@ -3975,13 +3965,13 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 73.66) (xy 186.69 72.39)
+			(xy 218.44 90.17) (xy 218.44 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "031d64f0-f56a-4a9b-9bf6-3289946d41c2")
+		(uuid "01acc32c-8aec-48c1-8450-cfae3ebd759d")
 	)
 	(wire
 		(pts
@@ -4045,16 +4035,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 73.66) (xy 130.81 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1038324a-eea2-4f67-98c1-a84fe5710aac")
-	)
-	(wire
-		(pts
 			(xy 93.98 147.32) (xy 99.06 147.32)
 		)
 		(stroke
@@ -4065,6 +4045,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.64 80.01) (xy 165.1 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12c79905-3e85-449a-9fdc-1ad823c2f1a7")
+	)
+	(wire
+		(pts
 			(xy 227.33 182.88) (xy 224.79 182.88)
 		)
 		(stroke
@@ -4072,6 +4062,16 @@
 			(type default)
 		)
 		(uuid "15d72955-aab7-457d-8ea3-fa0bd795384a")
+	)
+	(wire
+		(pts
+			(xy 179.07 73.66) (xy 179.07 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16537c65-e9c2-4d87-ad8b-6d9fec269348")
 	)
 	(wire
 		(pts
@@ -4135,16 +4135,6 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 41.91) (xy 227.33 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "269ef0f2-8772-4cbc-9323-3eab3b5a306f")
-	)
-	(wire
-		(pts
 			(xy 114.3 172.72) (xy 115.57 172.72)
 		)
 		(stroke
@@ -4152,16 +4142,6 @@
 			(type default)
 		)
 		(uuid "2a337420-9a55-4231-a496-12dba6540621")
-	)
-	(wire
-		(pts
-			(xy 166.37 90.17) (xy 166.37 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2bac56e4-e35e-4e09-b0e8-50cbf55f4d35")
 	)
 	(wire
 		(pts
@@ -4182,6 +4162,16 @@
 			(type default)
 		)
 		(uuid "3140a884-c34d-4a76-82cd-76f1c6ecf48e")
+	)
+	(wire
+		(pts
+			(xy 179.07 73.66) (xy 184.15 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "331cd988-92e7-4b69-96e9-28a861a53db2")
 	)
 	(wire
 		(pts
@@ -4285,16 +4275,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 45.72) (xy 227.33 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48e9958d-1da9-4ad7-94ad-da853c4fbd7b")
-	)
-	(wire
-		(pts
 			(xy 265.43 72.39) (xy 275.59 72.39)
 		)
 		(stroke
@@ -4302,6 +4282,16 @@
 			(type default)
 		)
 		(uuid "48fd49dc-aae1-4f4f-b8ea-37dbb8f40a82")
+	)
+	(wire
+		(pts
+			(xy 218.44 76.2) (xy 218.44 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49ad1811-d341-4a29-b8e3-009b2c493a70")
 	)
 	(wire
 		(pts
@@ -4332,16 +4322,6 @@
 			(type default)
 		)
 		(uuid "4f79ae0b-c332-4e05-abc7-1a0f88e2deaf")
-	)
-	(wire
-		(pts
-			(xy 227.33 90.17) (xy 227.33 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "546ded1e-42f4-4724-870c-3caa44304b32")
 	)
 	(wire
 		(pts
@@ -4405,13 +4385,13 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 80.01) (xy 166.37 80.01)
+			(xy 214.63 76.2) (xy 218.44 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5d52cea9-2b85-4bc4-b27c-5fc805c094a2")
+		(uuid "5d78386a-5a94-4235-86f4-bb94071b6ff8")
 	)
 	(wire
 		(pts
@@ -4435,16 +4415,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 73.66) (xy 191.77 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6141ff59-2505-48b0-93ea-03c99f4da5cd")
-	)
-	(wire
-		(pts
 			(xy 52.07 127) (xy 59.69 127)
 		)
 		(stroke
@@ -4462,16 +4432,6 @@
 			(type default)
 		)
 		(uuid "62b53315-a2c6-44e0-839c-b83e74712bc6")
-	)
-	(wire
-		(pts
-			(xy 125.73 73.66) (xy 125.73 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6345f42a-e846-46c7-80de-844f2511de8c")
 	)
 	(wire
 		(pts
@@ -4542,6 +4502,26 @@
 			(type default)
 		)
 		(uuid "68eaa6cd-c8c1-4374-b645-a654501982ae")
+	)
+	(wire
+		(pts
+			(xy 214.63 41.91) (xy 218.44 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69796442-b5fe-446f-9a4e-a9a8399c469a")
+	)
+	(wire
+		(pts
+			(xy 218.44 80.01) (xy 218.44 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cee7c8a-4d1f-4faf-984a-3937b281bbf0")
 	)
 	(wire
 		(pts
@@ -4625,16 +4605,6 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 76.2) (xy 166.37 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7759b051-01c3-4caf-b24d-5bd11c52a79d")
-	)
-	(wire
-		(pts
 			(xy 90.17 246.38) (xy 90.17 247.65)
 		)
 		(stroke
@@ -4685,6 +4655,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 41.91) (xy 218.44 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83d707b3-26c2-412c-96eb-d45bec10c9b4")
+	)
+	(wire
+		(pts
 			(xy 157.48 238.76) (xy 165.1 238.76)
 		)
 		(stroke
@@ -4702,6 +4682,16 @@
 			(type default)
 		)
 		(uuid "88d71142-530e-4bc5-a716-7de701c28c99")
+	)
+	(wire
+		(pts
+			(xy 165.1 76.2) (xy 165.1 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b8f414c-df57-4f3d-b8b3-63471fc733e0")
 	)
 	(wire
 		(pts
@@ -4735,16 +4725,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 80.01) (xy 166.37 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "912b587c-a96f-48e9-8402-e0dcb0bb9b24")
-	)
-	(wire
-		(pts
 			(xy 182.88 238.76) (xy 190.5 238.76)
 		)
 		(stroke
@@ -4752,16 +4732,6 @@
 			(type default)
 		)
 		(uuid "914bb592-3a5e-44fc-bfb3-fea1721ab1d2")
-	)
-	(wire
-		(pts
-			(xy 229.87 45.72) (xy 227.33 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91736f3f-e780-4eda-bbad-ad265d64b61d")
 	)
 	(wire
 		(pts
@@ -4785,16 +4755,6 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 76.2) (xy 227.33 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94013325-f5a7-422f-955b-5bd5ffbbec3a")
-	)
-	(wire
-		(pts
 			(xy 165.1 238.76) (xy 165.1 237.49)
 		)
 		(stroke
@@ -4802,6 +4762,16 @@
 			(type default)
 		)
 		(uuid "95cb0d4f-8c2b-4867-9e63-6946186fb64c")
+	)
+	(wire
+		(pts
+			(xy 165.1 90.17) (xy 165.1 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "966db11d-fb57-46fe-82d9-932487dea0d9")
 	)
 	(wire
 		(pts
@@ -4855,16 +4825,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 55.88) (xy 227.33 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a04ae25e-8a0f-4627-a6ca-a51b5b0adee1")
-	)
-	(wire
-		(pts
 			(xy 307.34 72.39) (xy 307.34 77.47)
 		)
 		(stroke
@@ -4885,7 +4845,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 45.72) (xy 166.37 48.26)
+			(xy 165.1 45.72) (xy 165.1 48.26)
 		)
 		(stroke
 			(width 0)
@@ -4925,6 +4885,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 39.37) (xy 179.07 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa95d440-0538-42e3-b13f-ec606b58823e")
+	)
+	(wire
+		(pts
 			(xy 160.02 142.24) (xy 154.94 142.24)
 		)
 		(stroke
@@ -4932,6 +4902,16 @@
 			(type default)
 		)
 		(uuid "ad4a9746-ef89-4b8c-a01c-df68b97bc77a")
+	)
+	(wire
+		(pts
+			(xy 161.29 76.2) (xy 165.1 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aea4241a-0e42-4502-9fbf-7bad9506c42c")
 	)
 	(wire
 		(pts
@@ -4975,6 +4955,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 45.72) (xy 218.44 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b575ddef-c054-4e8c-a6a0-5a346cbc0437")
+	)
+	(wire
+		(pts
 			(xy 52.07 152.4) (xy 59.69 152.4)
 		)
 		(stroke
@@ -4985,13 +4975,43 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 55.88) (xy 166.37 57.15)
+			(xy 218.44 55.88) (xy 218.44 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b88648df-58dc-4b99-8144-4f8302f2bbff")
+	)
+	(wire
+		(pts
+			(xy 165.1 55.88) (xy 165.1 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bd134397-9339-47eb-ad64-e949f6ddcfee")
+	)
+	(wire
+		(pts
+			(xy 165.1 80.01) (xy 165.1 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd22080a-303e-4c14-b843-bef03faf9fe1")
+	)
+	(wire
+		(pts
+			(xy 125.73 73.66) (xy 130.81 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bebd5a85-939f-477a-b7ea-9afed22fc667")
 	)
 	(wire
 		(pts
@@ -5025,6 +5045,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 39.37) (xy 184.15 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3541203-e160-4c92-850b-f2159a233b32")
+	)
+	(wire
+		(pts
 			(xy 224.79 193.04) (xy 224.79 194.31)
 		)
 		(stroke
@@ -5045,23 +5075,13 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 45.72) (xy 166.37 45.72)
+			(xy 167.64 45.72) (xy 165.1 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c743f4b1-4a12-4fea-8939-1294eb33097a")
-	)
-	(wire
-		(pts
-			(xy 186.69 39.37) (xy 186.69 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7755082-495e-4566-b1a7-27da8652823e")
 	)
 	(wire
 		(pts
@@ -5175,23 +5195,23 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 80.01) (xy 227.33 82.55)
+			(xy 161.29 41.91) (xy 165.1 41.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d2d292f7-3431-4179-acde-f8432ef15548")
+		(uuid "d1ba1030-5800-40fb-bcd8-e4ec871f16cb")
 	)
 	(wire
 		(pts
-			(xy 227.33 41.91) (xy 227.33 45.72)
+			(xy 125.73 73.66) (xy 125.73 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d63f4710-66b8-4e9c-8d19-8d93f5e6d2a2")
+		(uuid "d28f8f48-c405-4eea-b06d-e003446ad059")
 	)
 	(wire
 		(pts
@@ -5215,13 +5235,13 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 80.01) (xy 227.33 80.01)
+			(xy 220.98 80.01) (xy 218.44 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e024a586-3607-4d35-8c7b-c16fcf4d464c")
+		(uuid "e220c9bd-36ae-4717-8997-596ebe87d679")
 	)
 	(wire
 		(pts
@@ -5235,33 +5255,13 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 76.2) (xy 166.37 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3c3b661-6b6f-4d8e-b90e-2e6b459e2767")
-	)
-	(wire
-		(pts
-			(xy 166.37 41.91) (xy 166.37 45.72)
+			(xy 165.1 41.91) (xy 165.1 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e3f85d62-70c0-4e14-a853-c90b455e542a")
-	)
-	(wire
-		(pts
-			(xy 186.69 39.37) (xy 191.77 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e558a8e2-6d6d-4703-b65c-94c97892fa01")
 	)
 	(wire
 		(pts
@@ -5335,6 +5335,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 45.72) (xy 218.44 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef52c7e9-0227-4b10-80a0-987fd7ff0a29")
+	)
+	(wire
+		(pts
 			(xy 224.79 179.07) (xy 224.79 182.88)
 		)
 		(stroke
@@ -5342,16 +5352,6 @@
 			(type default)
 		)
 		(uuid "f02d7e76-c24b-4b81-94b3-8290157a4786")
-	)
-	(wire
-		(pts
-			(xy 161.29 41.91) (xy 166.37 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f06488b2-b8bc-4eea-8493-8da6fd95ac68")
 	)
 	(wire
 		(pts
@@ -5694,7 +5694,7 @@
 		(uuid "66990786-1a8c-4c79-bf58-ece1c5aa26ca")
 	)
 	(label "75"
-		(at 168.91 45.72 0)
+		(at 167.64 45.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5742,16 +5742,6 @@
 			(justify left bottom)
 		)
 		(uuid "6ea186d2-b54d-4d9e-a00d-5a3fd107039d")
-	)
-	(label "77"
-		(at 168.91 80.01 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "74ae9aee-0aca-43de-a36c-2b9533cb2419")
 	)
 	(label "DPX"
 		(at 67.31 162.56 0)
@@ -5823,6 +5813,16 @@
 		)
 		(uuid "84bb71fb-897b-4a8d-9504-4e990036efd2")
 	)
+	(label "77"
+		(at 167.64 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "854a2381-9c2b-4da0-a42e-b6a4cdefa56e")
+	)
 	(label "28"
 		(at 52.07 132.08 180)
 		(effects
@@ -5863,6 +5863,16 @@
 		)
 		(uuid "8eaf99b3-b745-45d1-b0ef-2f5aee55d9d0")
 	)
+	(label "76"
+		(at 220.98 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8f00a0b2-c696-41ca-a6fc-b2b72a0a6648")
+	)
 	(label "a"
 		(at 93.98 132.08 180)
 		(effects
@@ -5892,16 +5902,6 @@
 			(justify left bottom)
 		)
 		(uuid "94d8ba77-f13b-46e8-a0f2-6151572a00a9")
-	)
-	(label "76"
-		(at 229.87 45.72 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9500d99e-3027-402d-84dc-2843f3ada4ec")
 	)
 	(label "74"
 		(at 62.23 40.64 180)
@@ -6203,16 +6203,6 @@
 		)
 		(uuid "e4ea5444-e82e-4e54-8d83-367e2c3cb3bc")
 	)
-	(label "85"
-		(at 229.87 80.01 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e70318c0-cbb5-4ee3-91fc-b3d418391fc2")
-	)
 	(label "28"
 		(at 62.23 58.42 180)
 		(effects
@@ -6342,6 +6332,16 @@
 			(justify right bottom)
 		)
 		(uuid "fc1b3498-80eb-4982-b4d3-7d60e9e79684")
+	)
+	(label "85"
+		(at 220.98 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fd5be614-0148-4662-a260-aa07a2b1cc76")
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x06_Socket")
@@ -6838,6 +6838,84 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 218.44 91.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21081d0c-bd38-4330-82dc-cb72731c6e3c")
+		(property "Reference" "#PWR026"
+			(at 218.44 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 218.44 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 218.44 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 218.44 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "91d7da74-3580-451e-8ef6-43d43398d6e5")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 307.34 77.47 0)
 		(unit 1)
 		(body_style 1)
@@ -7321,8 +7399,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 80.01 247.65 0)
-		(mirror x)
+		(at 80.01 247.65 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7332,7 +7409,7 @@
 		(dnp no)
 		(uuid "2e3eb9fa-c6fc-482e-9470-f054ae0022cc")
 		(property "Reference" "R28"
-			(at 77.47 246.3799 0)
+			(at 82.55 246.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7343,7 +7420,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 77.47 248.9199 0)
+			(at 82.55 248.9199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7354,7 +7431,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 78.232 247.65 90)
+			(at 81.788 247.65 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7746,84 +7823,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 227.33 91.44 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3c211838-6d84-4582-b0cc-fc5e74322f62")
-		(property "Reference" "#PWR026"
-			(at 227.33 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 227.33 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 227.33 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 227.33 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6c79b599-7fdb-4586-88c8-9abee8097fad")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 86.36 41.91 0)
 		(mirror y)
 		(unit 1)
@@ -8064,8 +8063,9 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 186.69 38.1 0)
+		(lib_id "Device:R")
+		(at 218.44 86.36 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8073,31 +8073,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4478c2aa-58b5-4b29-9777-edd48705dd40")
-		(property "Reference" "#PWR021"
-			(at 186.69 41.91 0)
-			(hide yes)
+		(uuid "46787abb-38be-4aae-a1ea-2b9422ac3b47")
+		(property "Reference" "R26"
+			(at 215.9 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 186.69 33.02 0)
+		(property "Value" "10k"
+			(at 215.9 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 186.69 38.1 0)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 216.662 86.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8108,7 +8108,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 38.1 0)
+			(at 218.44 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8118,8 +8118,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 186.69 38.1 0)
+		(property "Description" "Resistor"
+			(at 218.44 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8130,12 +8130,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "d6ed35cd-23b1-4797-86ea-2ed2aa05dcc2")
+			(uuid "e83b1e15-9326-4c0a-8fc7-3d24a6c5c0d3")
+		)
+		(pin "2"
+			(uuid "5f9473a5-d0d7-4f86-ba22-4db33573f2ff")
 		)
 		(instances
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "#PWR021")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -8386,6 +8389,178 @@
 		)
 	)
 	(symbol
+		(lib_id "MySymbols:1301.9315")
+		(at 184.15 39.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f259b77-5591-4e3d-8dfc-07897a90f4f2")
+		(property "Reference" "PB2"
+			(at 199.39 31.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1301.9315"
+			(at 199.39 34.29 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MyFootPrints:13019319"
+			(at 210.82 134.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.schurter.com/en/datasheet/6x6_mm_tact_switches"
+			(at 210.82 234.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "CAD-Model shows LSH 5.0mm 3.4mm, Gullwing, variable height"
+			(at 184.15 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "9"
+			(at 210.82 434.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "SCHURTER"
+			(at 210.82 534.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1301.9315"
+			(at 210.82 634.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "693-1301.9315"
+			(at 210.82 734.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Schurter/1301.9315?qs=tGaZrb6HVSaeSttQbZxh%2FA%3D%3D"
+			(at 210.82 834.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Part Number" "1301.9315"
+			(at 210.82 934.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1301.9315/schurter?region=europe"
+			(at 210.82 1034.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3"
+			(uuid "e3215dd8-5e86-4838-bfda-d320879de4c2")
+		)
+		(pin "4"
+			(uuid "7965a04e-3452-495c-8d6c-68e96150342d")
+		)
+		(pin "1"
+			(uuid "e0ed795a-8045-4efb-a3b3-4d388f2004ca")
+		)
+		(pin "2"
+			(uuid "8c6172fc-5179-4a5e-a653-5f5c6950d290")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "PB2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 262.89 189.23 0)
 		(mirror x)
@@ -8540,6 +8715,84 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 125.73 72.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "56e51db2-66d8-46fb-9131-3f32524b174a")
+		(property "Reference" "#PWR023"
+			(at 125.73 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 125.73 67.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 125.73 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "03d430c1-23f3-469b-9962-bac5aead0562")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -8714,84 +8967,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 125.73 72.39 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5b7bde6c-24f0-44f3-aa5d-31e425d22a56")
-		(property "Reference" "#PWR023"
-			(at 125.73 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 125.73 67.31 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 125.73 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 125.73 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "39ab394c-a20f-4db8-8c54-31481692bfc0")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 90.17 175.26 0)
 		(unit 1)
@@ -8864,6 +9039,88 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 218.44 52.07 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5d1b9fb9-948f-4773-8ef2-3f92ef0e194e")
+		(property "Reference" "R24"
+			(at 215.9 50.7999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 215.9 53.3399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 216.662 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 218.44 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0144b0de-806b-4fd7-ac10-660e87bfcb7f")
+		)
+		(pin "2"
+			(uuid "b3177c97-4fc6-4219-adfe-11a14b94f52a")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -8944,6 +9201,178 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MySymbols:1301.9315")
+		(at 184.15 73.66 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6142cbab-5bbf-49f0-9ea9-350de4ab4842")
+		(property "Reference" "PB4"
+			(at 199.39 66.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1301.9315"
+			(at 199.39 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MyFootPrints:13019319"
+			(at 210.82 168.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.schurter.com/en/datasheet/6x6_mm_tact_switches"
+			(at 210.82 268.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "CAD-Model shows LSH 5.0mm 3.4mm, Gullwing, variable height"
+			(at 184.15 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "9"
+			(at 210.82 468.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "SCHURTER"
+			(at 210.82 568.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1301.9315"
+			(at 210.82 668.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "693-1301.9315"
+			(at 210.82 768.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Schurter/1301.9315?qs=tGaZrb6HVSaeSttQbZxh%2FA%3D%3D"
+			(at 210.82 868.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Part Number" "1301.9315"
+			(at 210.82 968.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1301.9315/schurter?region=europe"
+			(at 210.82 1068.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3"
+			(uuid "1d48763a-bfae-4481-966e-38918bb16402")
+		)
+		(pin "4"
+			(uuid "ff08b96d-2bb3-477b-9a70-94fe2f2f17af")
+		)
+		(pin "1"
+			(uuid "b9816747-9e89-4c7d-9664-32c1a86e9617")
+		)
+		(pin "2"
+			(uuid "c2688e02-b04f-458f-ae50-baad570d14a7")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "PB4")
 					(unit 1)
 				)
 			)
@@ -9100,6 +9529,84 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 165.1 91.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6737ef21-1527-480c-b592-c87f38178e0a")
+		(property "Reference" "#PWR024"
+			(at 165.1 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 165.1 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 165.1 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "13b37ea0-5c4d-4f24-a62b-636ea1c6e6dd")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -9268,7 +9775,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 166.37 57.15 0)
+		(at 165.1 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9279,7 +9786,7 @@
 		(fields_autoplaced yes)
 		(uuid "71a5f489-055b-4ba4-a5f6-7217577b844d")
 		(property "Reference" "#PWR020"
-			(at 166.37 63.5 0)
+			(at 165.1 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9290,7 +9797,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 166.37 62.23 0)
+			(at 165.1 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9300,7 +9807,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 166.37 57.15 0)
+			(at 165.1 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9311,7 +9818,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 57.15 0)
+			(at 165.1 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9322,7 +9829,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 166.37 57.15 0)
+			(at 165.1 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9339,6 +9846,84 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 179.07 38.1 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "790d7e90-383b-4b3a-b6a0-4b3a7ac9de15")
+		(property "Reference" "#PWR021"
+			(at 179.07 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 179.07 33.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 179.07 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8a1692f5-0bc1-43ff-a40e-44a01609d9f9")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -9499,6 +10084,88 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 165.1 86.36 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7c7cdc23-4255-4f17-8145-47b890b595ad")
+		(property "Reference" "R25"
+			(at 162.56 85.0899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 162.56 87.6299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 163.322 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 165.1 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "80f14a11-254a-443a-8469-ead49884e006")
+		)
+		(pin "2"
+			(uuid "4d7adcae-1cb9-42f3-83ca-b8551a6360c9")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -9667,7 +10334,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 166.37 52.07 0)
+		(at 165.1 52.07 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -9678,7 +10345,7 @@
 		(dnp no)
 		(uuid "7dba1bf7-a049-47d9-bbea-5c826abc032b")
 		(property "Reference" "R23"
-			(at 163.83 50.7999 0)
+			(at 162.56 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9689,7 +10356,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 163.83 53.3399 0)
+			(at 162.56 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9700,7 +10367,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 164.592 52.07 90)
+			(at 163.322 52.07 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9711,7 +10378,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 52.07 0)
+			(at 165.1 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9722,7 +10389,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 166.37 52.07 0)
+			(at 165.1 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9826,88 +10493,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 166.37 86.36 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "86833d43-d6dc-4353-a387-4de144a24a88")
-		(property "Reference" "R25"
-			(at 163.83 85.0899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 163.83 87.6299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 164.592 86.36 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 166.37 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 166.37 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0b80e018-8dc2-4d53-9b6c-5dd157fcfe10")
-		)
-		(pin "2"
-			(uuid "043dca60-9523-4ada-87a4-a464101330a2")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "R25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 165.1 237.49 0)
 		(unit 1)
@@ -9980,84 +10565,6 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "#PWR029")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 186.69 72.39 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8a7a310d-dcd0-424a-a6e3-0b37a04a8cdc")
-		(property "Reference" "#PWR025"
-			(at 186.69 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 186.69 67.31 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 186.69 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 186.69 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 186.69 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "32c8c026-cf58-4e44-aa33-504d81e68782")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -10820,522 +11327,6 @@
 		)
 	)
 	(symbol
-		(lib_id "MySymbols:1301.9315")
-		(at 130.81 73.66 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a97a155e-318c-40fd-8d8d-ec64d603ee70")
-		(property "Reference" "PB3"
-			(at 146.05 66.04 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1301.9315"
-			(at 146.05 68.58 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MyFootPrints:13019319"
-			(at 157.48 168.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.schurter.com/en/datasheet/6x6_mm_tact_switches"
-			(at 157.48 268.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "CAD-Model shows LSH 5.0mm 3.4mm, Gullwing, variable height"
-			(at 130.81 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "9"
-			(at 157.48 468.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "SCHURTER"
-			(at 157.48 568.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "1301.9315"
-			(at 157.48 668.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "693-1301.9315"
-			(at 157.48 768.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Schurter/1301.9315?qs=tGaZrb6HVSaeSttQbZxh%2FA%3D%3D"
-			(at 157.48 868.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Part Number" "1301.9315"
-			(at 157.48 968.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1301.9315/schurter?region=europe"
-			(at 157.48 1068.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "3"
-			(uuid "b66ef80d-de0e-4340-903b-8a7da2bdfba1")
-		)
-		(pin "4"
-			(uuid "730212b8-a8e5-4e46-87d9-af55ae57ce2e")
-		)
-		(pin "1"
-			(uuid "0324a702-adf9-4abd-8351-e8bd690e62b6")
-		)
-		(pin "2"
-			(uuid "0bc01e1d-3f43-4194-aecb-70dbfa059162")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "PB3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MySymbols:1301.9315")
-		(at 191.77 39.37 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "abbc7d18-1156-423c-b540-c840afdcb40a")
-		(property "Reference" "PB2"
-			(at 207.01 31.75 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1301.9315"
-			(at 207.01 34.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MyFootPrints:13019319"
-			(at 218.44 134.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.schurter.com/en/datasheet/6x6_mm_tact_switches"
-			(at 218.44 234.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "CAD-Model shows LSH 5.0mm 3.4mm, Gullwing, variable height"
-			(at 191.77 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "9"
-			(at 218.44 434.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "SCHURTER"
-			(at 218.44 534.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "1301.9315"
-			(at 218.44 634.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "693-1301.9315"
-			(at 218.44 734.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Schurter/1301.9315?qs=tGaZrb6HVSaeSttQbZxh%2FA%3D%3D"
-			(at 218.44 834.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Part Number" "1301.9315"
-			(at 218.44 934.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1301.9315/schurter?region=europe"
-			(at 218.44 1034.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "3"
-			(uuid "ac40d7b1-424e-4bdc-b997-641ccfd5445a")
-		)
-		(pin "4"
-			(uuid "ab83f77a-8adc-42ca-9b14-5f660d3496ec")
-		)
-		(pin "1"
-			(uuid "79c4977f-e5e5-4eb7-a37e-11aa039e32f0")
-		)
-		(pin "2"
-			(uuid "854e5fd2-f3a7-404d-9eec-b73e62c16155")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "PB2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MySymbols:1301.9315")
-		(at 191.77 73.66 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "accc3529-df3f-4fdf-b54c-223a02588922")
-		(property "Reference" "PB4"
-			(at 207.01 66.04 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1301.9315"
-			(at 207.01 68.58 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MyFootPrints:13019319"
-			(at 218.44 168.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://www.schurter.com/en/datasheet/6x6_mm_tact_switches"
-			(at 218.44 268.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "CAD-Model shows LSH 5.0mm 3.4mm, Gullwing, variable height"
-			(at 191.77 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "9"
-			(at 218.44 468.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "SCHURTER"
-			(at 218.44 568.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "1301.9315"
-			(at 218.44 668.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "693-1301.9315"
-			(at 218.44 768.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Schurter/1301.9315?qs=tGaZrb6HVSaeSttQbZxh%2FA%3D%3D"
-			(at 218.44 868.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Part Number" "1301.9315"
-			(at 218.44 968.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1301.9315/schurter?region=europe"
-			(at 218.44 1068.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "3"
-			(uuid "1b5c5803-c4f5-44f9-8371-86507f9f3de5")
-		)
-		(pin "4"
-			(uuid "b9defd6b-7f63-44ce-8b02-f5ffed68abc5")
-		)
-		(pin "1"
-			(uuid "d18042d9-e8d9-4be4-8f8b-9fd00a0bfc08")
-		)
-		(pin "2"
-			(uuid "775d4488-e642-4cd4-9860-fa39a2693f13")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "PB4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 279.4 62.23 90)
 		(unit 1)
@@ -11838,7 +11829,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 166.37 91.44 0)
+		(at 218.44 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11847,9 +11838,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bded865d-f91d-4f41-bf3b-f6ccda50d295")
-		(property "Reference" "#PWR024"
-			(at 166.37 97.79 0)
+		(uuid "bc000c0a-ac74-46b4-8d25-4b9e26841baf")
+		(property "Reference" "#PWR022"
+			(at 218.44 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11860,7 +11851,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 166.37 96.52 0)
+			(at 218.44 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11870,7 +11861,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 166.37 91.44 0)
+			(at 218.44 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11881,7 +11872,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 91.44 0)
+			(at 218.44 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11892,7 +11883,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 166.37 91.44 0)
+			(at 218.44 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11903,12 +11894,184 @@
 			)
 		)
 		(pin "1"
-			(uuid "8c761d88-ff97-4432-ae69-abf401856d4e")
+			(uuid "c72d239b-e53b-4964-bb87-3e784d6ea2f7")
 		)
 		(instances
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "#PWR024")
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MySymbols:1301.9315")
+		(at 130.81 73.66 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c10894b5-a487-4e5e-a0a6-f55f30f6c781")
+		(property "Reference" "PB3"
+			(at 146.05 66.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1301.9315"
+			(at 146.05 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MyFootPrints:13019319"
+			(at 157.48 168.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.schurter.com/en/datasheet/6x6_mm_tact_switches"
+			(at 157.48 268.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "CAD-Model shows LSH 5.0mm 3.4mm, Gullwing, variable height"
+			(at 130.81 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "9"
+			(at 157.48 468.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "SCHURTER"
+			(at 157.48 568.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1301.9315"
+			(at 157.48 668.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "693-1301.9315"
+			(at 157.48 768.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Schurter/1301.9315?qs=tGaZrb6HVSaeSttQbZxh%2FA%3D%3D"
+			(at 157.48 868.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Part Number" "1301.9315"
+			(at 157.48 968.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1301.9315/schurter?region=europe"
+			(at 157.48 1068.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3"
+			(uuid "953cb2b1-fd4b-47bd-bf5d-ff1471e9875a")
+		)
+		(pin "4"
+			(uuid "281166cb-9bd0-4f22-b9cd-044aba7a26e7")
+		)
+		(pin "1"
+			(uuid "2d9376ac-a6b0-4486-afa8-34d73b52f757")
+		)
+		(pin "2"
+			(uuid "2c8322d9-8793-4561-80b1-d9925764feb9")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "PB3")
 					(unit 1)
 				)
 			)
@@ -11992,84 +12155,6 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "SW2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 227.33 57.15 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ccd97158-2491-4ce1-9b89-2cb4bf522ba3")
-		(property "Reference" "#PWR022"
-			(at 227.33 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 227.33 62.23 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 227.33 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 227.33 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "09b5d135-6b96-405c-a4e8-c762341646ba")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -12320,88 +12405,6 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 227.33 86.36 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d4e5e43e-8f5a-49ef-8c03-793b4664f9aa")
-		(property "Reference" "R26"
-			(at 224.79 85.0899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 224.79 87.6299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 225.552 86.36 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 227.33 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b6730e3d-4cf1-42a9-87ee-d2d9e35c321a")
-		)
-		(pin "2"
-			(uuid "a3a7102e-e1ad-4fbb-b614-0d836d6b1d5a")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -12888,88 +12891,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 227.33 52.07 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e89eab63-f743-4f24-8c11-175818dfc910")
-		(property "Reference" "R24"
-			(at 224.79 50.7999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 224.79 53.3399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 225.552 52.07 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 227.33 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "329943b2-4333-4dfa-97d4-62b54b28679d")
-		)
-		(pin "2"
-			(uuid "fd43e963-08d5-4eee-9f2c-4dea2d8165c2")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "R24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 63.5 157.48 90)
 		(unit 1)
 		(body_style 1)
@@ -13324,6 +13245,84 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "PB1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 179.07 72.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fbb4fe61-6126-42f1-a267-041ae8111209")
+		(property "Reference" "#PWR025"
+			(at 179.07 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 179.07 67.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 179.07 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "75899b08-4766-46d4-b194-45ab04c3e776")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
