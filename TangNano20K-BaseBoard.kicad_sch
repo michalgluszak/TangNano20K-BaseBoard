@@ -4102,16 +4102,6 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 229.87) (xy 190.5 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05bafb98-b6e6-4e07-87ed-c2139930e1c5")
-	)
-	(wire
-		(pts
 			(xy 52.07 132.08) (xy 59.69 132.08)
 		)
 		(stroke
@@ -4122,6 +4112,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 231.14) (xy 185.42 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "079a90b3-d08f-447b-a926-821f439548b1")
+	)
+	(wire
+		(pts
 			(xy 265.43 142.24) (xy 262.89 142.24)
 		)
 		(stroke
@@ -4129,16 +4129,6 @@
 			(type default)
 		)
 		(uuid "0970ea51-01d7-444a-91c7-6b3c53019464")
-	)
-	(wire
-		(pts
-			(xy 152.4 229.87) (xy 152.4 227.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b200dcb-2189-4d15-906b-fc93885b0a0b")
 	)
 	(wire
 		(pts
@@ -4572,16 +4562,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 232.41) (xy 190.5 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "670a3e5a-e367-4842-95f9-ebd57e242652")
-	)
-	(wire
-		(pts
 			(xy 262.89 182.88) (xy 262.89 185.42)
 		)
 		(stroke
@@ -4609,16 +4589,6 @@
 			(type default)
 		)
 		(uuid "69796442-b5fe-446f-9a4e-a9a8399c469a")
-	)
-	(wire
-		(pts
-			(xy 165.1 232.41) (xy 152.4 232.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b5ca641-a9ca-42c6-ac5f-c69d87d82aef")
 	)
 	(wire
 		(pts
@@ -4772,16 +4742,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 232.41) (xy 152.4 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86626767-d260-44d4-9284-5ed49cd56b7e")
-	)
-	(wire
-		(pts
 			(xy 262.89 179.07) (xy 262.89 182.88)
 		)
 		(stroke
@@ -4839,6 +4799,16 @@
 			(type default)
 		)
 		(uuid "92940ad8-a8c9-472d-b7a8-d82250321894")
+	)
+	(wire
+		(pts
+			(xy 157.48 231.14) (xy 157.48 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "929bc245-b5e7-44e9-8c06-9c8e130cb46a")
 	)
 	(wire
 		(pts
@@ -4992,16 +4962,6 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 232.41) (xy 190.5 232.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad69f19e-ac1b-4822-8c52-99102a43dd1d")
-	)
-	(wire
-		(pts
 			(xy 161.29 76.2) (xy 165.1 76.2)
 		)
 		(stroke
@@ -5079,6 +5039,16 @@
 			(type default)
 		)
 		(uuid "b88648df-58dc-4b99-8144-4f8302f2bbff")
+	)
+	(wire
+		(pts
+			(xy 177.8 231.14) (xy 185.42 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b95175ff-8a13-410e-b59d-c512efa286b3")
 	)
 	(wire
 		(pts
@@ -5172,16 +5142,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 229.87) (xy 152.4 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6f1eb84-0886-4bac-b1b9-f7167358c20e")
-	)
-	(wire
-		(pts
 			(xy 167.64 45.72) (xy 165.1 45.72)
 		)
 		(stroke
@@ -5199,6 +5159,16 @@
 			(type default)
 		)
 		(uuid "c8518902-c0e6-4f76-9d7a-8b1e5fbd7622")
+	)
+	(wire
+		(pts
+			(xy 157.48 228.6) (xy 165.1 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cac4787b-3c08-46cc-a003-d924eaecb873")
 	)
 	(wire
 		(pts
@@ -5282,6 +5252,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 231.14) (xy 157.48 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf60db10-d55e-4974-b4d7-59fb38f4d83f")
+	)
+	(wire
+		(pts
 			(xy 86.36 76.2) (xy 76.2 76.2)
 		)
 		(stroke
@@ -5329,16 +5309,6 @@
 			(type default)
 		)
 		(uuid "dfb03a7f-2acd-413f-81e7-8648afa52f27")
-	)
-	(wire
-		(pts
-			(xy 190.5 229.87) (xy 190.5 227.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e17071c2-cc9f-421d-9ee7-e4f84e087b49")
 	)
 	(wire
 		(pts
@@ -5439,6 +5409,16 @@
 			(type default)
 		)
 		(uuid "ee78eab2-6137-4658-9680-ab64bd89b2c4")
+	)
+	(wire
+		(pts
+			(xy 185.42 228.6) (xy 177.8 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eee68102-b266-4925-8047-559f3925337d")
 	)
 	(wire
 		(pts
@@ -5550,13 +5530,13 @@
 		)
 		(uuid "06ed724e-12db-4756-9eab-697e70f1a5a6")
 	)
-	(label "79"
-		(at 177.8 237.49 0)
+	(label "71"
+		(at 165.1 238.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "08a6a066-e8a8-437b-a0f0-afeecdd5ac63")
 	)
@@ -5570,7 +5550,7 @@
 		)
 		(uuid "0a303b19-eb1c-489c-997f-b9ffab6ae0b0")
 	)
-	(label "73"
+	(label "75"
 		(at 227.33 182.88 0)
 		(effects
 			(font
@@ -5580,17 +5560,17 @@
 		)
 		(uuid "0a7aee82-9107-4bb8-9776-18dd4953d114")
 	)
-	(label "80"
-		(at 165.1 234.95 180)
+	(label "26"
+		(at 177.8 233.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "0c300f47-05f0-4db7-8a5f-47fd39200bfe")
 	)
-	(label "26"
+	(label "80"
 		(at 52.07 142.24 180)
 		(effects
 			(font
@@ -5640,7 +5620,7 @@
 		)
 		(uuid "21045a6a-ddb8-43e4-82c0-86637134e2e5")
 	)
-	(label "29"
+	(label "76"
 		(at 52.07 147.32 180)
 		(effects
 			(font
@@ -5660,13 +5640,13 @@
 		)
 		(uuid "2bb4f35e-4fe2-495a-99d6-8f84cacbddec")
 	)
-	(label "86"
-		(at 177.8 234.95 0)
+	(label "72"
+		(at 165.1 241.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "31d8294f-f6fc-416b-9c34-466a879b670b")
 	)
@@ -5690,7 +5670,7 @@
 		)
 		(uuid "36b07ef4-95c9-400d-b72e-82d2f6711d98")
 	)
-	(label "25"
+	(label "41"
 		(at 52.07 137.16 180)
 		(effects
 			(font
@@ -5700,7 +5680,7 @@
 		)
 		(uuid "3c582527-300f-4da8-90b8-56c16fa8b0dc")
 	)
-	(label "19"
+	(label "53"
 		(at 116.84 241.3 0)
 		(effects
 			(font
@@ -5730,17 +5710,17 @@
 		)
 		(uuid "46ce5a3b-34e1-47ee-a6d5-46053b6bbc7f")
 	)
-	(label "52"
-		(at 177.8 242.57 0)
+	(label "15"
+		(at 165.1 233.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "48330d98-15ff-41d4-b6ac-cc47ba8a195c")
 	)
-	(label "15"
+	(label "17"
 		(at 265.43 41.91 180)
 		(effects
 			(font
@@ -5770,7 +5750,7 @@
 		)
 		(uuid "4d2cc9cd-40a8-4538-82c5-39ff58d5712a")
 	)
-	(label "20"
+	(label "52"
 		(at 116.84 246.38 0)
 		(effects
 			(font
@@ -5780,13 +5760,13 @@
 		)
 		(uuid "4d49c41c-cce4-4cc9-a77c-5307a778d5af")
 	)
-	(label "41"
-		(at 165.1 237.49 180)
+	(label "29"
+		(at 177.8 236.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "5ad7a1f6-ad2d-436b-858f-1b63a5967553")
 	)
@@ -5830,7 +5810,7 @@
 		)
 		(uuid "66990786-1a8c-4c79-bf58-ece1c5aa26ca")
 	)
-	(label "75"
+	(label "77"
 		(at 167.64 45.72 0)
 		(effects
 			(font
@@ -5840,7 +5820,7 @@
 		)
 		(uuid "6770587d-7fe9-4c4c-8a85-98889682e531")
 	)
-	(label "17"
+	(label "19"
 		(at 265.43 62.23 180)
 		(effects
 			(font
@@ -5870,7 +5850,7 @@
 		)
 		(uuid "6ce20452-2edf-40d5-829d-df5af0310d5d")
 	)
-	(label "74"
+	(label "85"
 		(at 265.43 182.88 0)
 		(effects
 			(font
@@ -5880,13 +5860,13 @@
 		)
 		(uuid "6ea186d2-b54d-4d9e-a00d-5a3fd107039d")
 	)
-	(label "49"
-		(at 165.1 242.57 180)
+	(label "31"
+		(at 177.8 241.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "7d46394b-619d-48b0-8bc8-f20057f0b9bc")
 	)
@@ -5960,7 +5940,7 @@
 		)
 		(uuid "84bb71fb-897b-4a8d-9504-4e990036efd2")
 	)
-	(label "77"
+	(label "28"
 		(at 167.64 80.01 0)
 		(effects
 			(font
@@ -5970,7 +5950,7 @@
 		)
 		(uuid "854a2381-9c2b-4da0-a42e-b6a4cdefa56e")
 	)
-	(label "28"
+	(label "79"
 		(at 52.07 132.08 180)
 		(effects
 			(font
@@ -5990,7 +5970,7 @@
 		)
 		(uuid "8bd16106-818d-456c-b7fd-c42e0a9f9c8a")
 	)
-	(label "56"
+	(label "51"
 		(at 83.82 194.31 270)
 		(effects
 			(font
@@ -6010,7 +5990,7 @@
 		)
 		(uuid "8eaf99b3-b745-45d1-b0ef-2f5aee55d9d0")
 	)
-	(label "76"
+	(label "27"
 		(at 220.98 45.72 0)
 		(effects
 			(font
@@ -6030,7 +6010,7 @@
 		)
 		(uuid "9034df01-930d-40f2-8ebb-d4e6ade9febe")
 	)
-	(label "72"
+	(label "74"
 		(at 265.43 142.24 0)
 		(effects
 			(font
@@ -6060,23 +6040,23 @@
 		)
 		(uuid "9c1dd112-4d34-4725-b499-a1a80d3d940f")
 	)
-	(label "53"
-		(at 177.8 240.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a3099511-f678-480d-ad62-7a70fb9615b5")
-	)
-	(label "55"
-		(at 165.1 240.03 180)
+	(label "16"
+		(at 165.1 236.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
+		)
+		(uuid "a3099511-f678-480d-ad62-7a70fb9615b5")
+	)
+	(label "30"
+		(at 177.8 238.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
 		)
 		(uuid "a51fcc74-3ebf-4bd2-a7bb-17293d3896e0")
 	)
@@ -6100,7 +6080,7 @@
 		)
 		(uuid "acd69d8d-9c56-402f-bc35-15564f85fbe8")
 	)
-	(label "30"
+	(label "55"
 		(at 52.07 152.4 180)
 		(effects
 			(font
@@ -6130,7 +6110,7 @@
 		)
 		(uuid "b145bf5a-c903-4205-99dd-61a3a53e7239")
 	)
-	(label "48"
+	(label "54"
 		(at 158.75 194.31 270)
 		(effects
 			(font
@@ -6160,7 +6140,7 @@
 		)
 		(uuid "b9c6255f-e57d-4043-8b82-5a0ac86a15d4")
 	)
-	(label "31"
+	(label "56"
 		(at 52.07 157.48 180)
 		(effects
 			(font
@@ -6170,7 +6150,7 @@
 		)
 		(uuid "bb201a6f-c573-43e1-83cf-d8878d996778")
 	)
-	(label "71"
+	(label "73"
 		(at 227.33 142.24 0)
 		(effects
 			(font
@@ -6180,7 +6160,7 @@
 		)
 		(uuid "c381b7b2-6e90-4958-8545-15112d2a284a")
 	)
-	(label "16"
+	(label "20"
 		(at 265.43 52.07 180)
 		(effects
 			(font
@@ -6200,7 +6180,7 @@
 		)
 		(uuid "c4ccbe35-9076-4b40-a1aa-2c95842b12b0")
 	)
-	(label "54"
+	(label "49"
 		(at 109.22 194.31 270)
 		(effects
 			(font
@@ -6270,7 +6250,7 @@
 		)
 		(uuid "da60d20e-874a-4900-b9c6-7fd99a84d1ff")
 	)
-	(label "27"
+	(label "48"
 		(at 52.07 127 180)
 		(effects
 			(font
@@ -6290,7 +6270,7 @@
 		)
 		(uuid "dc6d2657-0b26-4f46-9e2e-6dcf60aab612")
 	)
-	(label "51"
+	(label "86"
 		(at 133.35 194.31 270)
 		(effects
 			(font
@@ -6430,7 +6410,7 @@
 		)
 		(uuid "fc1b3498-80eb-4982-b4d3-7d60e9e79684")
 	)
-	(label "85"
+	(label "25"
 		(at 220.98 80.01 0)
 		(effects
 			(font
@@ -6514,84 +6494,6 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 152.4 227.33 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "09625c1f-97bc-4294-8d0d-fd634ade011b")
-		(property "Reference" "#PWR036"
-			(at 152.4 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 152.4 222.25 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 152.4 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 152.4 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 152.4 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "977f0099-c058-420c-83cd-a5d79a5d5904")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -6911,6 +6813,85 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 157.48 232.41 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e18c2e1-a219-4a34-9ce1-0362d2d57476")
+		(property "Reference" "#PWR030"
+			(at 157.48 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 157.48 237.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 157.48 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "acba1b13-7005-470a-b1b4-752ae915e493")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -8299,6 +8280,85 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 157.48 228.6 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a214c00-abb8-42ad-a5b1-da3ed8bcf589")
+		(property "Reference" "#PWR032"
+			(at 157.48 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 157.48 223.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 157.48 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ddc71ed9-c2ff-4a31-9fbc-ca97e8c72989")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -10010,85 +10070,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 190.5 227.33 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "795eed00-8fcb-46c3-8487-ce3b63368ecb")
-		(property "Reference" "#PWR034"
-			(at 190.5 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 190.5 222.25 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 190.5 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 190.5 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 190.5 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9667dd52-e14d-473d-8353-d9163d36c2fb")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "#PWR034")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 115.57 175.26 0)
 		(unit 1)
@@ -10250,7 +10231,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x06_Odd_Even")
-		(at 170.18 234.95 0)
+		(at 170.18 233.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10260,7 +10241,7 @@
 		(dnp no)
 		(uuid "7c4daa5b-2522-41b7-8562-426f24f65b0d")
 		(property "Reference" "J3"
-			(at 171.45 226.822 0)
+			(at 171.45 225.552 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10270,7 +10251,7 @@
 			)
 		)
 		(property "Value" "Conn_02x06_Odd_Even"
-			(at 171.45 226.06 0)
+			(at 171.45 224.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10281,7 +10262,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Horizontal"
-			(at 170.18 234.95 0)
+			(at 170.18 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10292,7 +10273,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 234.95 0)
+			(at 170.18 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10303,7 +10284,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 170.18 234.95 0)
+			(at 170.18 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10513,6 +10494,84 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 185.42 232.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7cd36294-630f-43a5-b5e3-25085e1ed3d7")
+		(property "Reference" "#PWR029"
+			(at 185.42 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.42 237.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 185.42 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8e314555-3b8d-489c-9ce5-47e4de33c1d7")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -11022,84 +11081,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 190.5 234.95 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9c9baf09-31b5-4f11-9a52-6926331ac146")
-		(property "Reference" "#PWR035"
-			(at 190.5 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 190.5 240.03 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 190.5 234.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 190.5 234.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 190.5 234.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "74843e93-de4b-45ee-8051-f980e951a1a0")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "#PWR035")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 90.17 247.65 0)
 		(unit 1)
 		(body_style 1)
@@ -11261,85 +11242,6 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 152.4 234.95 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a449fcab-c8eb-48a7-bd90-1aef195101e3")
-		(property "Reference" "#PWR037"
-			(at 152.4 241.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 152.4 240.03 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 152.4 234.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 152.4 234.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 152.4 234.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3f7a7862-2cad-472a-ac56-13d30ab2d7a0")
-		)
-		(instances
-			(project "TangNano20K-BaseBoard"
-				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
-					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -12502,6 +12404,84 @@
 			(project "TangNano20K-BaseBoard"
 				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 185.42 228.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db15ff6a-a7b0-49ff-bf0d-34cca43995c7")
+		(property "Reference" "#PWR028"
+			(at 185.42 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 185.42 223.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 185.42 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4589ff1a-4cd5-423f-8782-f02f77d8f630")
+		)
+		(instances
+			(project "TangNano20K-BaseBoard"
+				(path "/e5795ef0-ab01-48e5-8400-b77abdd11902"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
