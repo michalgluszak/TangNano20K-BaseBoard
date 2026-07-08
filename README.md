@@ -31,6 +31,8 @@ Due to the nature of FPGA chips and fast digital signals, during the PCB design 
 
 ## Schematic
 
+The schematic is divided into logical blocks: Tang Nano 20K Connectors, User LEDs, GPIO Expansion Headers, 4-Digit 7-Segment Display, Push Buttons, Slide Switches, and OLED Display (I2C).
+
 ![Schematic](Documentation/Images/schematic.png)
 
 ## PCB Design
