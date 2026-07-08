@@ -49,7 +49,7 @@ Below is a screenshot of the finished PCB design showing the routing and the via
 
 To make the review and assembly of the board easier, I generated an interactive Bill of Materials (BOM). You can closely inspect the routing and component placement there.
 
-👉 **[Open Interactive BOM](https://TWOJ_LOGIN.github.io/NAZWA_REPO/Documentation/bom/ibom.html)**
+👉 **[Open Interactive BOM](https://michalgluszak.github.io/TangNano20K-BaseBoard/Documentation/bom/ibom.html)**
 
 ---
 *Project created in KiCad 10.0.*
