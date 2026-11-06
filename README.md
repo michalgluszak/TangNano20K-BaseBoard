@@ -1,12 +1,18 @@
-# Tang Nano 20K Evaluation Board
+# Tang Nano 20K Expansion Baseboard
 
 ![3D Render](Documentation/Images/3d_render.png)
 
+## Project Status
+
+**PCB design prototype — Not fabricated or hardware-tested.**
+
+The schematic and PCB layout were designed in KiCad. The board has not been manufactured or physically tested, so its functionality has not been verified on real hardware. The design may require further revisions before fabrication.
+
 ## About the Project
 
-The **Tang Nano 20K Evaluation Board** is a custom motherboard designed to make learning and prototyping digital circuits easier using Hardware Description Languages (HDL), like Verilog and VHDL.
+The **Tang Nano 20K Expansion Baseboard** is a custom PCB expansion board designed to make learning and prototyping digital circuits easier using Hardware Description Languages (HDL), such as Verilog and VHDL.
 
-The idea for this project came from a desire to test written code in practice. Commercial evaluation platforms, like Basys 3 or boards based on Artix 7 chips, are relatively expensive. As an alternative, I chose the Tang Nano 20K chip, which offers great features at a very affordable price (around 120 PLN). To make working with this module easier, I designed a dedicated expansion board.
+The idea for this project came from a desire to test written code in practice. Commercial evaluation platforms, like Basys 3 or boards based on Artix 7 chips, are relatively expensive. As an alternative, I chose the Tang Nano 20K FPGA development board, which offers great features at a very affordable price (around 120 PLN). To make working with this module easier, I designed a dedicated expansion board.
 
 A huge advantage of this solution is its modularity – the Tang Nano 20K module is not soldered permanently. It is placed in pin headers, so you can take it out anytime and use it in another project directly on a breadboard.
 
@@ -20,14 +26,15 @@ A huge advantage of this solution is its modularity – the Tang Nano 20K module
 
 ## PCB Technical Specifications
 
-Due to the nature of FPGA chips and fast digital signals, during the PCB design in KiCad, I put special focus on Signal Integrity and the elimination of electromagnetic interference (EMI).
+During the PCB design in KiCad, I focused on organizing signal routing, maintaining ground planes, and applying via stitching to support signal integrity and reduce potential electromagnetic interference (EMI).
 
 * **Board dimensions:** 100 mm x 90 mm.
 * **Signal trace width (0.25 mm):** Routed tightly and compactly to minimize their length and delays.
-* **Power trace width (0.6 mm):** Widened to ensure proper current capacity and a stable voltage for the FPGA chip.
-* **Single-layer topology (almost):** All routing of signal and power traces was done on the top layer (Top Layer). I only moved one trace to the bottom layer (Bottom Layer) because there was no space on top. Thanks to this, the bottom layer is an unbroken return plane.
-* **Ground Planes:** I applied ground planes (GND copper pours) on both layers (Top and Bottom), which provides excellent shielding.
-* **Via Stitching:** To balance potentials and minimize ground loop impedance, I connected the top and bottom GND planes using a large number of stitching vias. This is a key technique for reducing noise in high-frequency digital circuits.
+* **Power trace width (0.6 mm):** Wider traces were used for power distribution to reduce resistance and voltage drops.
+* **Two-layer PCB:** Most signal and power traces were routed on the top layer, with only one trace routed on the bottom layer to minimize interruptions to the ground plane.
+* **Ground Planes:** GND copper pours were added on both PCB layers to provide return paths for signals and improve grounding.
+* **Via Stitching:** Multiple stitching vias were used to connect the top and bottom GND copper pours, with the aim of maintaining ground continuity and reducing return-path impedance.
+
 
 ## Schematic
 
@@ -37,7 +44,7 @@ The schematic is divided into logical blocks: Tang Nano 20K Connectors, User LED
 
 ## PCB Design
 
-Below is a screenshot of the finished PCB design showing the routing and the via stitching structure.
+Below is a screenshot of the PCB layout showing the routing and via stitching structure.
 
 ![PCB View](Documentation/Images/PCB.PNG)
 
